@@ -25,7 +25,7 @@
 
 ---
 
-## 2. Development Framework — Scrum (с элементами Kanban для саппорта)
+## 2. Development Framework — Scrum (с элементами Kanban для поддержки)
 
 Выбор: **Scrum**, спринты по 2 недели.
 

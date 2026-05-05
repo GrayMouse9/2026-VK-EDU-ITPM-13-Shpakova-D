@@ -66,14 +66,15 @@
 
 ## 3. Wireframes — ключевые экраны
 
-Грубые макеты «квадратиками» — 4 экрана критического пути:
-
 1. **Анкета подбора** — пользователь указывает бюджет, настроения, даты и город вылета.
 2. **Подтверждение и оплата** — сводка по поездке и кнопки оплаты картой / СБП.
 3. **Бронь подтверждена (Surprise Lock)** — статус `paid`, обратный отсчёт до раскрытия конверта.
 4. **Раскрытый конверт** — направление, перелёты, отель, погода, PDF-документы.
 
-![Wireframes критического пути MVP — 4 экрана](images/wireframes.png)
+![Wireframes критического пути MVP — 1](images/wireframe_1.png)
+![Wireframes критического пути MVP — 2](images/wireframe_2.png)
+![Wireframes критического пути MVP — 3](images/wireframe_3.png)
+![Wireframes критического пути MVP — 4](images/wireframe_4.png)
 
 
 ---
@@ -104,7 +105,7 @@
 {
   "match_id": "m_8f3a21",
   "summary": {
-    "includes": ["flight_round_trip", "hotel_2_nights", "envelope_24h"],
+    "includes": ["hotel_2_nights", "envelope_24h"],
     "service_fee_rub": 1500,
     "total_rub": 29800
   },
